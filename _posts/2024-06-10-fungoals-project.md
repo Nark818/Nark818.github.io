@@ -4,7 +4,7 @@ date: 2024-06-10 00:00:00 +0800
 categories: [project]
 tags: [Java, SQLite, Project]
 image:
-  path: assets\images\post\Fun-Goals\logo-fungoals.jpg
+  path: /assets/images/post/Fun-Goals/logo-fungoals.jpg
   alt: Fun-Goals Project Thumbnail
 ---
 
@@ -58,7 +58,7 @@ image:
 # FunGoals - Aplikasi Perencanaan Keuangan
 
 ### Welcome Page
-![Welcome Page](assets\images\post\Fun-Goals\LoginScene.png)
+![Welcome Page](/assets/images/post/Fun-Goals/LoginScene.png)
 
 ### Sign Up dan Sign In Page
 <div align="center">
@@ -66,11 +66,11 @@ image:
         <tr>
             <td align="center" width="50%">
                 <strong>Sign Up</strong><br>
-                <img src="assets\images\post\Fun-Goals\MenuSignup.png" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
+                <img src="/assets/images/post/Fun-Goals/MenuSignup.png" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
             </td>
             <td align="center" width="50%">
                 <strong>Sign In</strong><br>
-                <img src="assets\images\post\Fun-Goals\MenuSignin.png" alt="SignIn" style="width: 100%; max-width: 400px; height: auto;">
+                <img src="/assets/images/post/Fun-Goals/MenuSignin.png" alt="SignIn" style="width: 100%; max-width: 400px; height: auto;">
             </td>
         </tr>
     </table>
@@ -78,7 +78,7 @@ image:
 
 ### Menu Utama
 
-![Menu Utama](assets\images\post\Fun-Goals\HomeScene.png)
+![Menu Utama](/assets/images/post/Fun-Goals/HomeScene.png)
 
 FunGoals menyediakan berbagai fitur perencanaan keuangan:
 - Barang
@@ -96,10 +96,10 @@ FunGoals menyediakan berbagai fitur perencanaan keuangan:
     <table>
         <tr>
             <td align="center" width="50%">
-                <img src="assets\images\post\Fun-Goals\Scene_Barang1.jpeg" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
+                <img src="/assets/images/post/Fun-Goals/Scene_Barang1.jpeg" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
             </td>
             <td align="center" width="50%">
-                <img src="assets\images\post\Fun-Goals\Scene_Barang2.png" alt="SignIn" style="width: 100%; max-width: 400px; height: auto;">
+                <img src="/assets/images/post/Fun-Goals/Scene_Barang2.png" alt="SignIn" style="width: 100%; max-width: 400px; height: auto;">
             </td>
         </tr>
     </table>
@@ -115,7 +115,7 @@ Halaman Barang membantu pengguna merencanakan pembelian dengan:
 
 ### Dana Darurat
 
-![Dana Darurat](assets\images\post\Fun-Goals\Scene_DanaDarurat.jpeg)
+![Dana Darurat](/assets/images/post/Fun-Goals/Scene_DanaDarurat.jpeg)
 
 Pada halaman Dana Darurat, pengguna dapat mengatur:
 - Pengeluaran wajib setiap bulan

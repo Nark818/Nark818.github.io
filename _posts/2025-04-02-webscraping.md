@@ -5,7 +5,7 @@ date: 2025-04-02 09:00:00 +0700
 categories: [Materi]
 tags: [python, data-mining, web-scraping]
 image:
-  path: assets\images\post\webscraping\web scraping wallpaper.jpg
+  path: /assets/images/post/webscraping/web scraping wallpaper.jpg
   alt: Web Scraping Illustration
 ---
 

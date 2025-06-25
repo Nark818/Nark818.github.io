@@ -4,7 +4,7 @@ date: 2024-10-20 00:00:00 +0800
 categories: [praktikum]
 tags: [HTML, CSS, Bootstrap]
 image:
-  path: assets\images\post\pokemon\pokemon wallpaper.png
+  path: /assets/images/post/pokemon/pokemon wallpaper.png
   alt: Pokemon Gallery WEB Thumbnail
 ---
 
@@ -41,7 +41,7 @@ Setiap halaman memiliki hero section yang unik:
         <tr>
             <td align="center" width="50%">
                 <strong>Pokemon Blue</strong><br>
-                <img src="assets\images\post\pokemon\screencapture-127-0-0-1-5500-index-html-2025-06-25-17_04_12.png" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
+                <img src="/assets/images/post/pokemon/screencapture-127-0-0-1-5500-index-html-2025-06-25-17_04_12.png" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
             </td>
         </tr>
     </table>
@@ -51,11 +51,11 @@ Setiap halaman memiliki hero section yang unik:
         <tr>
             <td align="center" width="50%">
                 <strong>Pokemon Red</strong><br>
-                <img src="assets\images\post\pokemon\screencapture-127-0-0-1-5500-index3-html-2025-06-25-17_04_27.png" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
+                <img src="/assets/images/post/pokemon/screencapture-127-0-0-1-5500-index3-html-2025-06-25-17_04_27.png" alt="SignUp" style="width: 100%; max-width: 400px; height: auto;">
             </td>
             <td align="center" width="50%">
                 <strong>Pokemon Yellow</strong><br>
-                <img src="assets\images\post\pokemon\screencapture-127-0-0-1-5500-index2-html-2025-06-25-17_03_44.png" alt="SignIn" style="width: 100%; max-width: 400px; height: auto;">
+                <img src="/assets/images/post/pokemon/screencapture-127-0-0-1-5500-index2-html-2025-06-25-17_03_44.png" alt="SignIn" style="width: 100%; max-width: 400px; height: auto;">
             </td>
         </tr>
     </table>
