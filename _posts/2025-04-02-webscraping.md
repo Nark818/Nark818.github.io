@@ -166,7 +166,3 @@ Web scraping berada di area abu-abu secara hukum. Berikut beberapa hal penting y
 Web scraping adalah alat yang sangat berguna dalam arsenal pengumpulan data. Dengan memahami teknik, alat, dan pertimbangan etis yang terlibat, Anda dapat memanfaatkan kekuatan web scraping untuk mendapatkan wawasan berharga dari web. Namun, selalu ingat untuk menggunakannya secara bertanggung jawab dan dengan mempertimbangkan hak-hak pemilik situs web dan pengguna.
 
 Saat dilakukan dengan benar, web scraping dapat membuka pintu ke lautan data yang tidak terstruktur di web dan menyediakannya dalam format yang dapat digunakan untuk berbagai aplikasi data-driven.
-
----
-
-Anda memiliki pengalaman dengan web scraping? Bagikan di komentar di bawah!

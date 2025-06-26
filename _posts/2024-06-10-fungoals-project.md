@@ -8,7 +8,7 @@ image:
   alt: Fun-Goals Project Thumbnail
 ---
 
-# 🎯 Fun-Goals: Final Project OOP
+# Fun-Goals: Final Project OOP
 
 ## 🌟 **Tentang Proyek**
 **Fun-Goals** adalah aplikasi berbasis Java yang dirancang untuk membantu pengguna menetapkan, melacak, dan mencapai tujuan mereka dengan cara yang menyenangkan! Proyek ini merupakan bagian dari tugas akhir OOP (Object-Oriented Programming) dan menampilkan penerapan prinsip-prinsip OOP seperti **inheritance**, **polymorphism**, dan **encapsulation**.
