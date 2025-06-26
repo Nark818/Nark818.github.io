@@ -10,7 +10,7 @@ order: 4
 
 ## 👋 Hello, I'm Andi Nafil Fayzul Haq!
 
-Saya lahir pada **2 Maret 2005** di Indonesia. Saat ini saya aktif berkuliah di **Universitas Hasanuddin (UNHAS)**, program studi **Sistem Informasi**, Fakultas MIPA, mengejar gelar sarjana dalam bidang komputer.
+Saya lahir pada **2 Maret 2005** di **Bandung**, Indonesia. Saat ini saya aktif berkuliah di **Universitas Hasanuddin (UNHAS)** yang berlokasi di **Tamalanrea, Makassar**, program studi **Sistem Informasi**, Fakultas MIPA, mengejar gelar sarjana dalam bidang komputer.
 
 ---
 
