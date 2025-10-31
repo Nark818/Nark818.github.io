@@ -5,7 +5,7 @@ date: 2025-08-23 10:00:00 +0700
 categories: [Materi]
 tags: [test-plan, testing-strategy, qa, quality-assurance]
 image:
-  path: assets\images\post\testing plan\Testing plan.jpg
+  path: assets/images/post/testing plan/Testing plan.jpg
   alt: Panduan Rencana Pengujian
 ---
 
